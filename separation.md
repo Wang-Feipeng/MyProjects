@@ -2,7 +2,7 @@
 
 # 目录
 
-1 [再生水中有机污染物的分离方法](#再生水中有机污染物的分离方法)
+1. [再生水中有机污染物的分离方法](#再生水中有机污染物的分离方法)
 
 * 1.1 [XAD](#XAD)
 
@@ -33,7 +33,7 @@
 
 > 文献阅读
 
-1 1979, AC. Comparison of XAD Macroporous Resins for the Concentration of Fulvic Acid from Aqueous Solution.
+**(1)** 1979, AC. Comparison of XAD Macroporous Resins for the Concentration of Fulvic Acid from Aqueous Solution.
 
   * 
 
