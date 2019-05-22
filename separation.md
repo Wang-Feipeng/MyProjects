@@ -31,6 +31,12 @@
 
 ## XAD
 
+> 文献阅读
+
+1 1979, AC. Comparison of XAD Macroporous Resins for the Concentration of Fulvic Acid from Aqueous Solution.
+
+  * 
+
 ### XAD4
 
 ### XAD8
