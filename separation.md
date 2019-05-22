@@ -4,11 +4,17 @@
 
 1 [再生水中有机污染物的分离方法](#再生水中有机污染物的分离方法)
 
-  1.1 [XAD-4/XAD-8(combination types：hydrophobic-pH)](#XAD-4/XAD-8)
+  1.1 [XAD-4/XAD-8](#XAD-4/XAD-8)
 
-  1.2 [MW size membrane](#MW size)
+  1.2 [MW size](#MW size)
 
-  1.3 [PPL/C18/HLB)](#SPE)
+  1.3 [SPE](#SPE)
+  
+  1.3.1 [PPL](#PPL)
+  
+  1.3.2 [HLB](#HLB)
+  
+  1.3.3 [C18](#C18)
 
 
 2 再生水中有机污染物的优化方法
@@ -24,5 +30,11 @@
 ## MW size
 
 ## SPE
+
+### PPL
+
+### HLB
+
+### C18
 
 
