@@ -6,6 +6,10 @@
 
 * 1.1 [XAD](#XAD)
 
+> [Mechanism](#Mechanism)
+
+> [Application](#Application)
+
   * 1.1.1 [XAD4](#XAD4)
   
   * 1.1.2 [XAD8](#XAD8)
@@ -33,9 +37,19 @@
 
 > 文献阅读
 
+### Mechanism
+
 **(1)** 1979, AC. Comparison of XAD Macroporous Resins for the Concentration of Fulvic Acid from Aqueous Solution.
 
-  * 
+  * XAD Macroporous Resins; five macroreticular, nonionic Amberlite XAD resins; 丙烯酸酯acrylic ester resins. 强吸附，强洗脱Highest recoveries were obtained with the acrylic ester resins which proved to be most efficient for both **adsorption and elution** of fulvic acid. 苯乙烯二乙烯苯styrene divinylbenrene resins. 扩散能力弱导致吸附弱，形成电荷络合物抑制洗脱Usefulness of the styrene divinylbenrene resins to remove fulvic acid is limited because of slow diffusion-controlled adsorption and formation of charge-transfer complexes, which hinders elution.
+  
+  * batch and column techniques
+
+### Application
+ 
+**(2)** 1979, AC. Comparison of XAD Macroporous Resins for the Concentration of Fulvic Acid from Aqueous Solution.
+
+  * 洗脱效率 Elution efficiencies were determined by desorption with 0.1 N NaOH.
 
 ### XAD4
 
