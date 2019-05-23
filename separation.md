@@ -18,6 +18,8 @@
 
 * 1.2 [MW size](#MW_size)
 
+> [molecular weight distribution](#MW_distribution)
+
 * 1.3 [SPE](#SPE)
   
   * 1.3.1 [PPL](#PPL)
@@ -107,6 +109,8 @@ A PHYSICAL-CHEMICAL METHOD FOR MEASUREMENT OF THE REFRACTORY PART OF EFFLUENTS.
 ## MW_size
 
 > 文献阅读
+
+## MW_distribution
 
 **(3)** 1990, JEE. Molecular Size Distributions of Dissolved Organic Matter.
 
